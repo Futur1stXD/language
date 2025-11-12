@@ -1,0 +1,2 @@
+﻿user_id,wave_id,completed_at,Q1,Q2,Q3,Q4,Q5,Q6,LQ1,LQ2,LQ3,LQ4,LQ5,LQ6,LQ7,LQ8,LQ9,LQ10
+641509519,wave_1,2025-11-11 15:51:46,"[""Q1_OP1"", ""Q1_OP2""]","[""Q2_OP1"", ""Q2_OP2""]",,,,,"[""LQ1_OP3""]",LQ2_OP1,LQ3_OP3,"[""LQ4_OP3"", ""LQ4_OP6:test""]","[""LQ5_OP4"", ""LQ5_OP3""]","[""LQ6_OP1""]",LQ7_OP3,"[""LQ8_OP3"", ""LQ8_OP5""]",LQ9_OP1,"[""LQ10_OP5""]"
